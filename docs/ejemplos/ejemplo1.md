@@ -8,24 +8,23 @@ Este ejemplo te muestra cómo crear un nuevo entorno utilizando el programa Ento
 
 2.  **Haz clic en el botón "Nuevo Entorno".** Deberías encontrar un botón con esta etiqueta en la interfaz principal del programa. Normalmente está ubicado en la barra de herramientas o en un menú desplegable.
 
-    ![Captura de pantalla del botón "Nuevo Entorno" (New)](imagen_nuevo_entorno.png)
+    ![Captura de pantalla del botón "Nuevo Entorno" (New)](entornospng)
 
 3.  **Introduce un nombre para tu nuevo entorno.** Aparecerá una ventana o un campo de texto donde podrás escribir el nombre que quieras darle a este entorno (por ejemplo, "Proyecto A", "Configuración de pruebas", "Entorno de desarrollo").
 
-    ![Captura de pantalla del diálogo para nombrar el entorno (Name)](imagen_nombre_entorno.png)
+    ![Captura de pantalla del diálogo para nombrar el entorno (Name)](entornos.png)
 
 4.  **Haz clic en "Crear" o "Aceptar".** Una vez que hayas introducido el nombre, haz clic en el botón para confirmar la creación del nuevo entorno.
 
 5.  **Verifica la creación.** El nuevo entorno debería aparecer ahora en la lista de entornos disponibles en la interfaz del programa. Puede que se muestre con el nombre que le asignaste.
 
-    ![Captura de pantalla de la lista de entornos con el nuevo entorno creado (List)](imagen_lista_entornos.png)
+    ![Captura de pantalla de la lista de entornos con el nuevo entorno creado (List)](entornos.png)
 
 ## Resultado
 
-Después de seguir estos pasos, habrás creado un nuevo entorno llamado "[Nombre del entorno]". Ahora puedes comenzar.
+Después de seguir estos pasos, habrás creado un nuevo entorno llamado "[Name_entorno]". Ahora puedes comenzar.
 
 ## Notas
 
 * El proceso exacto puede variar ligeramente dependiendo de la versión de Entornos que estés utilizando. Consulta la documentación completa para más detalles.
-* Puedes crear múltiples entornos para organizar diferentes aspectos de tu trabajo o proyectos.
-* 
+* Puedes crear múltiples entornos para organizar diferentes aspectos de tu trabajo o proyectos.  
