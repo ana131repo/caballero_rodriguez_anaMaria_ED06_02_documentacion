@@ -6,5 +6,4 @@ Esta es la página principal de mi documentación.
 
 - [Guía de Instalación](guia/instalacion.md)
 - [Configuración](guia/configuracion.md)
-- [Despliegue](guia/despliegue.md)
 - [Ejemplo 1](ejemplos/ejemplo1.md)
