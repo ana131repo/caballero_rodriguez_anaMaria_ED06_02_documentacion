@@ -12,7 +12,7 @@ Asegúrate de tener lo siguiente instalado:
 
 ## Pasos de Instalación
 
-1.  **Descarga:** Ve a [entornos](https://entornoDePrueba.es). Haz clic en el enlace correspondiente a tu sistema operativo.
+1.  **Descarga:** Ve a [Entornos](https://entornoDePrueba.es). Haz clic en el enlace correspondiente a tu sistema operativo.
 
 2.  **Ejecuta el Instalador:**
     * **Windows:** Haz doble clic en el archivo `.exe` y sigue las instrucciones.
