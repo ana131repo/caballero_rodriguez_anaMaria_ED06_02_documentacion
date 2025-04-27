@@ -8,17 +8,17 @@ Este ejemplo te muestra cómo crear un nuevo entorno utilizando el programa Ento
 
 2.  **Haz clic en el botón "Nuevo Entorno".** Deberías encontrar un botón con esta etiqueta en la interfaz principal del programa. Normalmente está ubicado en la barra de herramientas o en un menú desplegable.
 
-    ![Botón "Nuevo Entorno" (New)](entornospng)
+    ![Botón "Nuevo Entorno" (New)](../capturas/entornos.png)
 
 3.  **Introduce un nombre para tu nuevo entorno.** Aparecerá una ventana o un campo de texto donde podrás escribir el nombre que quieras darle a este entorno (por ejemplo, "Proyecto A", "Configuración de pruebas", "Entorno de desarrollo").
 
-    ![Pantalla del diálogo para nombrar el entorno (Name)](entornos.png)
+    ![Pantalla del diálogo para nombrar el entorno (Name)](../capturas/entornos.png)
 
 4.  **Haz clic en "Crear" o "Aceptar".** Una vez que hayas introducido el nombre, haz clic en el botón para confirmar la creación del nuevo entorno.
 
 5.  **Verifica la creación.** El nuevo entorno debería aparecer ahora en la lista de entornos disponibles en la interfaz del programa. Puede que se muestre con el nombre que le asignaste.
 
-    ![Lista de entornos con el nuevo entorno creado (List)](entornos.png)
+    ![Lista de entornos con el nuevo entorno creado (List)](../capturas/entornos.png)
 
 ## Resultado
 
