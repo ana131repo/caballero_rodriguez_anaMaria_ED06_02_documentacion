@@ -1,6 +1,6 @@
-# Guía de Instalación de Entornos
+# Configuracion
 
-Esta guía te ayudará a instalar y configurar el programa Entornos Tema 6 en tu sistema.
+Programa Entornos Tema 6 en tu sistema.
 
 ## Prerrequisitos
 
